@@ -13,3 +13,7 @@ T-3 . WAP to collect the below details about a user, using the input prompt.
 T-4 . WAP that calculates the area of a rectangle. Prompt the user to enter the length and width, and then use arithmetic operators to compute the area.
 
 T-5 . WAP to increment a number by 1 using the unary + operator.
+
+# w1d2 -ct == if_else_practice_Question(file) 
+Here is a separate set of practice questions for if/else conditions.
+Here the question are in the file only .
