@@ -20,4 +20,12 @@ Here the question are in the file only .
 
 # w1d1 -HT == if_else_p_2 
 T-1 . Write a Python program to calculate the area of a circle with a given radius using only arithmetic operators.
+Note: Area of circle = 3.14 * raduis ** 2
 
+T-2 . Write a Python program that calculates the power of a number. Ask the user for the base and exponent, and display the result.
+
+T-3 . Write a Python program to calculate the remainder of division between two numbers. Prompt the user to enter two integers and display the remainder of their division.
+
+T-4 . Write a Python program that demonstrates the use of the type() function to check the data type of a variable. Prompt the user to enter a value, and then print its data type.
+
+T-5 . Write the Python program to calculate the area and perimeter of a rectangle.
