@@ -29,3 +29,6 @@ T-3 . Write a Python program to calculate the remainder of division between two 
 T-4 . Write a Python program that demonstrates the use of the type() function to check the data type of a variable. Prompt the user to enter a value, and then print its data type.
 
 T-5 . Write the Python program to calculate the area and perimeter of a rectangle.
+
+# w1d2 - HT == W1D2_HT
+Here the tasks are itself given in the file by me .
