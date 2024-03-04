@@ -32,3 +32,6 @@ T-5 . Write the Python program to calculate the area and perimeter of a rectangl
 
 # w1d2 - HT == W1D2_HT
 Here the tasks are itself given in the file by me .
+
+# W1 - Assignment 
+Here are some practice assignment questions are done .
