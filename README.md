@@ -2,7 +2,7 @@
 
 Practice if /else condition in python.Here there are many ways of doing one code in several ways .Here i have done practis of if and else condition .If someone is a new learner can learn from my codes .I had explained every code in detail.Feel free to ask your doubts but do not make any changes in the code .
 
-# w1d1 -ct Question down here , here 
+# w1d1 -ct Question down here , here T = task
 
 T-1 . WAP to prompt input from user to enter their name and print "Hello{username}, Congratulations on your first python program!!
 
