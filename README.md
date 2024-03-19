@@ -4,7 +4,7 @@ Practice if /else condition in python.Here there are many ways of doing one code
 
 # w1d1 -ct Question down here , here T = task
 
-T-1 . WAP to prompt input from user to enter their name and print "Hello {username}, Congratulations on your first python program!!
+T-1 . WAP to prompt input from user to enter their name and print "Hello Congratulations on your first python program!!
 
 T-2 . WAP to prompt user to enter 2 numbers(dividend and divisor), print the Quotient.
 
